@@ -6,8 +6,8 @@ I am a passionate researcher specializing in Artificial Intelligence and deep le
 ---
 
 ## 🛠️ Skills & Tools
-- **Programming:** Caffe, Python, Pytorch, Tensorflow, Shell
-- **AI/ML Frameworks:** PyTorch, TensorFlow
+- **Programming:** Python, Shell
+- **AI/ML Frameworks:** PyTorch, TensorFlow, Caffe
 - **Specialties:** Deep Learning, Medical Imaging, Federated Learning, Genetic Algorithms, Computer Vision
 - **Languages:** Chinese (Mandarin) (Native), English
 
