@@ -39,7 +39,7 @@ Automated nurse scheduling using genetic algorithms.
 - Deep Learning used to Recognition Swimmers Drowning (IEEE/ACIS SNPD 2021-Fall)
 - **Patent:** Intelligent Image Recognition Drowning Warning System, R.O.C. Patent I790715
 
-[More publications in my profile →](https://github.com/JianJiaXian)
+[More publications in my profile →](https://github.com/JianJiaXian/publications.md)
 
 ---
 
