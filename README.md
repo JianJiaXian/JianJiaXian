@@ -1,4 +1,4 @@
-# Hi, I'm Jia-Xian Jian (簡嘉賢) 👋
+# Hi, I'm Jia-Xian Jian 👋
 
 ## 🧑‍🔬 About Me
 I am a passionate researcher specializing in Artificial Intelligence and deep learning, currently pursuing a Ph.D. in Electrical Engineering at National Cheng Kung University. My main research interests include medical image analysis, federated learning, semi-supervised learning, generative models, and genetic algorithms for model optimization. I am dedicated to leveraging advanced AI techniques to solve real-world challenges in healthcare, safety, and automation.
